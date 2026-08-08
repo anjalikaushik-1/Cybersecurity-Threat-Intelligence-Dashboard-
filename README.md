@@ -37,7 +37,7 @@ These SQL queries shaped the understanding of the dataset before it was modeled 
 3. Open the file in Power BI Desktop to explore the full interactive report
 
 ## 📷 Preview
-*(Add screenshots of each report page here so recruiters can see the dashboard without opening Power BI — see the "Add screenshots" step in the setup guide)*
+*( ![overview]( ) )*
 
 ---
 **Author:** Anjali | Data Analytics Student
