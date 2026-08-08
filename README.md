@@ -37,7 +37,7 @@ These SQL queries shaped the understanding of the dataset before it was modeled 
 3. Open the file in Power BI Desktop to explore the full interactive report
 
 ## 📷 Preview
-*( ![overview]( ) )*
+*( ![overview]({21890989-6124-4980-BDDF-A0ED1C51823D}.png ) )*
 
 ---
 **Author:** Anjali | Data Analytics Student
